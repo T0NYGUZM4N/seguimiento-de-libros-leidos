@@ -1,8 +1,8 @@
-Gestor de Libros Leídos en JavaScript
+# Gestor de Libros Leídos en JavaScript
 
 Este es un pequeño programa en JavaScript que permite agregar títulos de libros a una lista y mostrarlos en la consola.
 
-📌 Descripción
+## 📌 Descripción
 
 El programa contiene dos funciones principales:
 
@@ -10,7 +10,7 @@ agregarLibro(titulo): Agrega un libro a la lista de libros leídos.
 
 mostrarLibrosLeidos(): Muestra en la consola todos los libros que han sido agregados.
 
-🚀 Uso
+## 🚀 Uso
 
 1️⃣ Incluir el código
 
@@ -35,11 +35,11 @@ Guarda el código en un archivo .js y ejecútalo en la consola del navegador o c
 
 node nombreDelArchivo.js
 
-📌 Salida esperada en consola
+## 📌 Salida esperada en consola
 
 Mostrando libros leídos: El principito, El alquimista
 
-📌 Mejoras posibles
+## 📌 Mejoras posibles
 
 Agregar una opción para eliminar libros.
 
@@ -47,7 +47,7 @@ Guardar la lista en localStorage para persistencia en el navegador.
 
 Crear una interfaz gráfica con HTML y CSS.
 
-📌 Autor
+## 📌 Autor
 
 Marco Antonio Guzmán Partida
 
